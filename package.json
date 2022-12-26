@@ -4,7 +4,7 @@
   "description": "first application designed to learn backend development",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "node index.js"
   },
   "author": "Aryan Pathak",
   "license": "ISC",
